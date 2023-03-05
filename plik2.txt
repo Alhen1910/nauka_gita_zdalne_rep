@@ -1,1 +1,1 @@
-zmiana w pliku2
+input plik2 numer 2

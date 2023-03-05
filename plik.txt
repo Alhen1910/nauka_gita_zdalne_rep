@@ -1,1 +1,1 @@
-Input numer dwa
+Input plik numer 3
